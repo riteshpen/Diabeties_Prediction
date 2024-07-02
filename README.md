@@ -13,6 +13,8 @@ To determine this the model will look at certain factors.
 
 This dataset was collected by [kaggle](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset)
 
+<img width="457" alt="Screenshot 2024-07-01 at 10 01 53 PM" src="https://github.com/riteshpen/Diabeties_Prediction/assets/147536351/7e6acc58-32c0-4ea9-a6ef-87d3401b5f70">
+
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 

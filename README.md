@@ -36,3 +36,9 @@ Create a new Pull Request.
 - ChatGPT
 - YouTube
 
+## Programming Languages
+- Python
+- HTML
+- JavaScript
+- CSS
+

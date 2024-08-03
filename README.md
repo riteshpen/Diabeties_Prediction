@@ -2,7 +2,7 @@
 
 ## Information
 
-We want to make a predictive machine learning model to predict whether or not the person has diabetes accurately. 
+We want to make a classification machine learning model project to predict accurately whether or not the person has diabetes. 
 To determine this the model will look at certain factors. 
 - Age
 - Pregnancies

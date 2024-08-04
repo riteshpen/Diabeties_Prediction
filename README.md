@@ -2,7 +2,7 @@
 
 ## Information
 
-We want to make a classification machine learning model project to predict accurately whether or not the person has diabetes. 
+We want to make a classification machine learning model project to predict whether a person has diabetes accurately. 
 To determine this the model will look at certain factors. 
 - Age
 - Pregnancies
@@ -17,7 +17,7 @@ This dataset was collected by [kaggle](https://www.kaggle.com/datasets/akshaydat
 
 <img width="354" alt="Screenshot 2024-08-03 at 9 50 12 AM" src="https://github.com/user-attachments/assets/eef6f4ca-bbec-4a74-9a93-60595fd5d6a4">
 
-Once I saved the trained model then I ran a Python Flask Server and a html and js file for users to test. 
+Once I saved the trained model, I ran a Python Flask Server and an HTML and JS file for users to test the trained model. 
 
 
 ## Contributing

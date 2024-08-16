@@ -42,6 +42,7 @@ Create a new Pull Request.
 - ChatGPT
 - NGROK
 
+[app.pdf](https://github.com/user-attachments/files/16641809/app.pdf)
 
 
 

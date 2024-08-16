@@ -17,8 +17,9 @@ This dataset was collected by [kaggle](https://www.kaggle.com/datasets/akshaydat
 
 <img width="354" alt="Screenshot 2024-08-03 at 9 50 12 AM" src="https://github.com/user-attachments/assets/eef6f4ca-bbec-4a74-9a93-60595fd5d6a4">
 
-Once I saved the trained model, I ran a Python Flask Server and an HTML and JS file for users to test the trained model. 
+Once I saved the trained model, I used streamlit api for users to test the trained model. 
 
+**[WEBSITE](https://7407-2600-1702-4eb3-78e0-3d98-95d-f15d-175a.ngrok-free.app/)**
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:

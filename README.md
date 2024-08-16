@@ -40,11 +40,9 @@ Create a new Pull Request.
 - VSCode
 - Juypter Notebook
 - ChatGPT
-- YouTube
+- NGROK
 
-## Programming Languages
-- Python
-- HTML
-- JavaScript
-- CSS
+
+
+
 

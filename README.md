@@ -19,7 +19,7 @@ This dataset was collected by [kaggle](https://www.kaggle.com/datasets/akshaydat
 
 Once I saved the trained model, I used streamlit api for users to test the trained model. 
 
-**[WEBSITE](https://7407-2600-1702-4eb3-78e0-3d98-95d-f15d-175a.ngrok-free.app/)**
+**[WEBSITE](https://diabetiespredictioncalc.streamlit.app/)**
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
